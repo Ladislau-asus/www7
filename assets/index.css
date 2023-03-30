@@ -1,0 +1,90 @@
+* {
+    text-decoration: none !important;
+}
+
+/* ALINHAMENTO DE TUDO DA PAGINA */
+.card-info-banco {
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+/* ALINHAMENTO DA DIV DE INFORMAÇÕES */
+.card-info-div {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    width: 95%;
+}
+
+/* ESPAÇAMENTO DAS DIV */
+.card-info-banco .card-info-div div {
+    width: 45%;
+    margin: 20px 0px;
+}
+
+/* CARD DE INFORMAÇÕES */
+.card-banco {
+    display: flex;
+    padding: 10px;
+    background-color: #020a54;
+    border: dashed yellow;
+    border-radius: 15px;
+    min-height: 260px;
+    padding-top: 5px;
+    text-align: center;
+    font-size: xx-large;
+    color: white;
+    flex-direction: column;
+    align-items: center;
+    flex-wrap: nowrap;
+}
+
+/* ALINHAMENTO HORIZONTAL DO BOTAO DO BANCO */
+.btn-banco {
+    display: flex;
+    justify-content: center;
+}
+
+/* TEXTO DO BOTAO DO BANCO */
+.btn-banco a {
+    color: black;
+    font-size: x-large;
+    font-weight: bold;
+}
+
+/* FINAL DA PAGINA */
+.footer-cover {
+    width: 100%;
+    height: 200px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background-color: white;
+}
+
+.footer-cover .size-20 {
+    width: 20%;
+}
+
+.footer-cover .size-30 {
+    width: 30%;
+}
+
+.aside-2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-wrap: nowrap;
+}
+
+.aside-2 div div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
