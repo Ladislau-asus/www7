@@ -53,8 +53,8 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     // -----------------------------------------------
     // PENDENCIAS
     // -----------------------------------------------
-    require_once('../libs/inc/EasyPDO.php');
-    require_once('../libs/inc/config.php');
+    require_once('./libs/inc/EasyPDO.php');
+    require_once('./libs/inc/config.php');
 
     $bd = new database();
 
