@@ -129,7 +129,7 @@ $link_whatsapp = 'https://wa.link/i1sm20';
                 <div style="display: flex; justify-content: space-evenly;">
                     <div>
                         <a style="height: auto; width: auto;" target="_blank" href="<?= $link_facebook ?>">
-                            <img src="../img/facebook2.svg" style="width: 40px; margin: 3px;" alt="">
+                            <img src="./img/facebook2.svg" style="width: 40px; margin: 3px;" alt="">
                         </a>
                     </div>
                     <div>
