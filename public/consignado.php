@@ -5,7 +5,7 @@ $info = '';
 
 $placeholder = 'placeholder="* Campo Obrigatorio"';
 
-require_once('../libs/inc/functions.php');
+require_once('./libs/inc/functions.php');
 
 // -----------------------------------------------
 // REQUEST DA FUNÇÃO
