@@ -2,7 +2,7 @@
 
 $link_facebook = 'https://www.facebook.com/profile.php?id=100090956140838';
 $link_instagram = 'https://www.instagram.com/laudecicred/';
-$link_whatsapp = 'https://wa.link/i1sm20';
+$link_whatsapp = 'https://whatsfacil.com/b389e9';
 
 ?>
 <!DOCTYPE html>
