@@ -1,7 +1,12 @@
 * {
     text-decoration: none !important;
 }
-
+.body {
+    exibir: flex;
+   	 /*direção flex: coluna; inverte como propriedades abaixo*/ 
+    	justificar conteúdo: espaço entre;
+    	itens de alinhamento: centro;
+}
 /* ALINHAMENTO DE TUDO DA PAGINA */
 .card-info-banco {
     display: flex;
