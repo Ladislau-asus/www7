@@ -26,6 +26,10 @@ footer, header, hgroup, menu, nav, section {
 }
 body {
 	line-height: 1;
+	display: flex;
+   	 /*flex-direction: column; inverte as propriedades abaixo*/ 
+    	justify-content: space-between;
+    	align-items: center;
 }
 ol, ul {
 	list-style: none;
